@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Caleb Smith's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
