@@ -2,12 +2,11 @@
 layout: cv
 title: Caleb Smith's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Caleb Smith
+San Diego State Department of Geography
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="csmith5320@sdsu.edu">isaac@applesdofall.org</a>
 </div>
 
 
