@@ -6,39 +6,36 @@ title: Caleb Smith's CV
 San Diego State Department of Geography
 
 <div id="webaddress">
-<a href="csmith5320@sdsu.edu">isaac@applesdofall.org</a>
+<a href="csmith5320@sdsu.edu">csmith5320@sdsu.edu</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+First year masters student at San Diego State University
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Geographic Information Systems (GIS)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Geospatial intelligence, remote sensing, image analysis.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-2022`
+__University of Denver, Denver, CO.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS in Geographic Information Systems
+- Minor in mathematics and anthropology
 
-- Sizar
+`August 2022 - present`
+__San Diego State University, San Diego, CA__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- MS in geography
 
 
 ## Awards
